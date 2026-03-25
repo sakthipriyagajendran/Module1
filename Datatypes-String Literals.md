@@ -15,3 +15,4 @@ print(men_stepped_on_the_moon)
 <img width="385" height="206" alt="image" src="https://github.com/user-attachments/assets/52d1d8d2-6c3e-4b5a-99ba-978a57feae9a" />
 
 ## Result
+Thus,the program was implemented and executed successfully,and the required output was obtained.
